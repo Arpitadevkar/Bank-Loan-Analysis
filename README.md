@@ -1,9 +1,7 @@
-# Bank-Loan-Analysis-
+# Bank-Loan-Analysis
 
  📌 Project Summary
 This project delivers an **end-to-end analysis of bank loan data**, focusing on **loan performance, customer risk evaluation, and repayment behavior**. Using a mix of **Excel, Power BI, Tableau, and SQL**, the project transforms raw data into actionable insights with **interactive dashboards** designed for smarter decision-making and process optimization.
-
----
 
  🚀 Key Features
 - Complete **data preprocessing and exploration** to uncover trends in lending performance.  
@@ -14,15 +12,11 @@ This project delivers an **end-to-end analysis of bank loan data**, focusing on 
   - Credit score and customer segmentation analysis  
   - Geographic and time-based loan patterns  
 
----
-
  🛠 Tools & Technologies
 - **Microsoft Excel** – Data cleaning, pivot tables, KPI summaries  
 - **Power BI** – Interactive dashboards, drill-through insights  
 - **Tableau** – Advanced visualizations, filters, and storyboards  
 - **SQL** – Querying and extracting insights from structured data  
-
----
 
  📂 Files Included
 - `Bank_Loan_Analysis.xlsx` – Excel dashboard  
@@ -30,16 +24,12 @@ This project delivers an **end-to-end analysis of bank loan data**, focusing on 
 - `Bank_Loan_Analysis.twbx` – Tableau packaged workbook  
 - `screenshots/` – Preview images of dashboards  
 
----
-
  📊 Dashboard Insights
 - 📅 Yearly loan status distribution  
 - 💳 Credit grade vs revolving balance trends  
 - 🔍 Payment comparisons based on verification status  
 - 🗺️ Geographic and month-wise lending insights  
 - 🏠 Home ownership patterns vs repayment history  
-
----
 
 This project demonstrates how **data visualization and analytics** can simplify complex banking data and support **strategic decision-making**.
 
